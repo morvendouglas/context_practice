@@ -2,12 +2,11 @@ import React from "react";
 import UserScore from "../components/UserScore";
 
 const HighScores = () => {
-
-    return (
-        <>
-        <UserScore />
-        </>
-    )
-}
+  return (
+    <>
+      <UserScore />
+    </>
+  );
+};
 
 export default HighScores;
